@@ -4,4 +4,4 @@ The project uses WEKA API and Java to perform sentiment analysis on web articles
 
 **DataStats.java** is the main body of the code
 
-**SentenceStats.java** is the sentence object that shows information about individual sentence
+**SentenceStats.java** is the sentence object that shows information about each sentence
